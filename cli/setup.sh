@@ -28,7 +28,7 @@ az extension add -n ml -y
 # <set_variables>
 #RESOURCE_GROUP_NAME="cloudml"
 GROUP="cloudml"
-LOCATION="centralindia"
+LOCATION="eastus"
 WORKSPACE="dev-general"
 # </set_variables>
 
